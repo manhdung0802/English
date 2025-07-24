@@ -1,50 +1,50 @@
-Sandy
-Sun-drenched
-Seldom
-Cheek
-Adorable
-Pill
-Diet
-Mung bean
-Sticky rice
-Pork
-Hard-working
-Maternity leave
+Sandy (adj)
+Sun-drenched (adj) 
+Seldom  (adv) 
+Cheek (N, V)
+Adorable (adj)
+Pill (N)
+Diet (N)
+Mung bean (N)
+Sticky rice (N) 
+Pork (N) 
+Hard-working (adj)
+Maternity leave (N)
 Leave for
-Sick of
-Grow
+Sick of 
+Grow (V)
 Live in
 Live on
 Live at
 I see
 Beat me
-Delighted
-Petrify
+Delighted (adj)
+Petrify (V)
 Petrified of
-Frightened
-Comprehend
-Feeling
+Frightened (adj)
+Comprehend (V)
+Feeling (N)
 Meet customer needs
-Jealous
-Nervous
-Wealth
-Headache
-Stool
-Pupil
+Jealous (adj)
+Nervous (adj)
+Wealth (N)
+Headache (N)
+Stool (N)
+Pupil (N)
 Are not allow to
-Hit it off
-Hit the
-Reckon
-Give in
-Give away
+Hit it off (cụm V)
+Hit the 
+Reckon (V)
+Give in (cụm V)
+Give away (cụm V)
 Give me a hand
-Look
-Look into
+Look (V)
+Look into (cụm V)
 Pull over
-Pull off
-Full moon
+Pull off (cụm V)
+Full moon (N)
 A pair of
-Move
+Move (V, adj)
 Primary school
 Kindergarten
 Good
@@ -53,91 +53,92 @@ Foot
 Cook
 Put
 Agricultural development
-Argue
-Doubtful
+Argue (V) + (with)
+Doubtful (adj)
 It is no doubt that
-Germ
-Sterile
-Instance
-Stomach
-Countertop
-Utensil
-Grocery store
-Wise
-Diarrhea
-Vomit
+Germ (N)
+Sterile (adj)
+Sterilize (V)
+Instance (N,V)
+Stomach (N)
+Countertop (N) 
+Utensil (N) 
+Grocery store (N) 
+Wise (adj)
+Diarrhea  (N) 
+Vomit (V)
 Thanks to
-Favourable
-Climate
-Variety
-Convenient
-Firm
-Oily
+Favourable (adj)
+Climate (N)
+Variety (N)
+Convenient (adj)
+Firm (N, adj)
+Oily (adj)
 Man
 Men
-Generous
-Gentle
+Generous (adj) 
+Gentle (adj) 
 On my bare feet
-Soil
-Jam
-Bread
-Brad
-Head
-Set off
-Settle down
+Soil (N, V)
+Jam (N)
+Bread (N)
+Brad (N)
+Head (N, V)
+Set off (V)
+Settle down (V)
 For a living
-Profession
-Actor
-Actress
-A play
-Astronomer
-Novel
-Customs
-Baker
-Labour
-Drive
-Butcher
-Master
-Janitor
-Tidy
-Illness
-Civil
-Well-paid job
-Crime rate
-Suffer from
-Finance
-Chair
-Flight attendant
-Herb
-Herbicide
-Detoxify
-Bitter
-Bitterness
-Flavour
-Operate
-Stir
-Burn
-Letter
-Pants
+Profession (N)
+Actor (N) 
+Actress (N) 
+A play (N) 
+Astronomer (N) 
+Novel (N) 
+Customs (N) 
+Baker (N) 
+Labour (N, V)
+Drive (N, V)
+Butcher (N, V)
+Master (N, V, adj)
+Janitor (N)
+Tidy (V, adj)
+Illness (N)
+Civil (adj)
+Well-paid job (N)
+Crime rate (N)
+Suffer from (cụm V)
+Finance (N, V)
+Chair (N, V)
+Flight attendant (N)
+Herb (N)
+Herbicide (N)
+Detoxify (V)
+Bitter (adj)
+Bitterness (N)
+Flavour (N, V)
+Operate (V)
+Stir (V)
+Burn (N. V)
+Letter (N)
+Pants (N)
 I have no word to say
 Words of thanks
-Enthusiastic
-Sleepless
-Forsake
+Enthusiastic (adj)
+Sleepless (adj)
+Forsake (V)
 Drive someone bananas
-Luxurious
+Luxurious (adj)
 Get into a car
 At the heart of
-Outskirts
-Sharp
-Smell
-Solve
+Outskirts (N)
+Sharp (adj)
+Smell (V)
+Solve (V)
 Wait for
 Passed away
-Star
-Field
-Beyond
-Must-see
+Star (V)
+Field (V)
+Beyond (adv)
+Must-see (N)
 Mustn’t
 Just
 Go on 
@@ -145,311 +146,316 @@ Be Used to V-ing
 Used to V
 Adapt to
 Open the door to sth
-Loyal
+Loyal (adj)
 The rest
-Lease
-Rent
-Fog
-Foggy
+Lease (N, V)
+Rent (V)
+Fog (N)
+Foggy (adj)
 Fast
-Gloomy
-Chilly
+Gloomy (adj)
+Chilly (adj)
 Hold your horses
-Heat
-Gossip
+Heat (N, V)
+Gossip (N, V)
 Not too hot on
 Honestly speaking
-Board
+Board (N, V)
 Fill in the form
-Form
-A tall order
-Short
-Shortage
-Sweaty
+Form (N, V)
+A tall order 
+Short (adj)
+Shortage (N)
+Sweaty (adj)
 Desire to V
-Hot-tempered
-Childish
-Neat
-Quiet
-Faint
-Pessimistic
-Dishonest
-Optimistic
-Sensible
-Resourceful
-Personality
-Attitude
-Rude
-Impolite
-Mean
-Stingy
-Nasty
-Talkative
-Determine
-Arrogant
-Opposite
-Confidence
-Patient
-Patience
-Appreciate
-Dedicate
-Humorous
-Cultured
-Supportive
-Disciplined
+Hot-tempered (adj)
+Childish (adj) 
+Neat (adj) 
+Quiet (adj) 
+Faint (adj) 
+Pessimistic (adj) 
+Dishonest (adj) 
+Optimistic (adj) 
+Sensible (adj) 
+Resourceful (adj) 
+Personality (N) 
+Attitude (N)
+Rude (adj) 
+Impolite (adj) 
+Mean (adj) 
+Stingy (adj) 
+Nasty (adj) 
+Talkative (adj) 
+Determine (adj) 
+Arrogant (adj) 
+Opposite (adj) 
+Confidence (N) 
+Patient (adj) 
+Patience (N)
+Appreciate (V)
+Dedicate (V)
+Humorous (adj) 
+Cultured (adj) 
+Supportive (adj) 
+Disciplined (adj) 
 Miss the boat
-Backpack
-Engage
-flyover
-injured
+Backpack (N)
+Engage (V)
+flyover (N)
+injured (adj)
 shout at me
 stick to his plan
 what i like most about
-consider
-level-headed
-Punctuality
-poverty
-court
+consider (V)
+level-headed (adj) 
+Punctuality (N)
+poverty (N)
+court (N)
 home to something
-tourism
-promote
-origin 
-demote
-tourist
-narrator
-impoverished
-economically disadvantaged
+tourism (N)
+promote (V)
+origin (N)
+demote (V)
+tourist (N)
+narrator (N)
+impoverished (adj)
+economically disadvantaged (adj) 
 certainly
-clear
-obvious
-clearance
+clear (adj) 
+obvious (adj) 
+clearance (N)
 play an important role
-distant
-distance
-from afar
-proximity
-careless
-concern
-education
-spending
-share (cổ phiếu)
-fair
-lion's share
-injustice
-heyday
-meaning
+distant (adj) 
+distance (N)
+from afar (adj)
+proximity (N) (to)
+careless (adj) 
+concern (N) + (for/about)
+education (N)
+spending (N)
+share (N)
+fair (N, adj)
+lion's share (N)
+injustice (N)
+heyday (N)
+meaning (N)
 take a nap
 hang out
-rapidly
-awake
-stay + tính từ: duy trì trạng thái gì đó, ví dụ như stay awake
+rapidly (adv)
+awake (adj)
+stay (adj)
 great academic performance
-fire
+fire (V)
 big on
-purchase
+purchase (V)
 in time
 in the meantime
 at no time
 drop school
 choose to 
-coin
-show off
-round
-curious
-reflection
-durians
-chemical substances
-laugh
+coin (V)
+show off (V)
+round (adj)
+curious (adj) 
+reflection (N)
+durians (N)
+chemical substances (N)
+laugh (V)
 this is probably due to the fact that 
-time-saving
-leaflet
-campaign
-beneath
+time-saving (adj) 
+leaflet (N, V)
+campaign (N)
+beneath (adv)
 run out
-supposed to
-arise
+be supposed to
+arise (V)
 problems arise
 some time
 sometime
 sometimes
 take someone out
-early bird
+early bird (N)
 have a crush on
-fall asleep
-sleep deprivation
+fall asleep (cụm V)
+sleep deprivation (cụm N)
 none of 
 spend + v-ing
-stare at
-flood
-provide
-nutrition
-income
-aging
-resident
+stare at (cụm V)
+flood (N, V)
+provide (V)
+nutrition (N)
+income (N)
+aging (N, adj)
+resident (N)
 have a chance to 
-organ
-allergic to
-yell at
-plural
-rob
-singular
-stand for
-once a month
+organ (N)
+allergic to (cụm adj)
+yell at (cụm V)
+plural (N) 
+rob (V)
+singular (N)
+stand for (cụm V)
+once a month 
 too adj to ...
 it seems to me that
-liar
+liar (N)
 by chance
-lie 
-lying
-university degree
-ruin
-ease
-shopaholic
-workaholic
-technophile
-eel
-wither
-housekeeper
-disgusting
-perfectly seasoned
+lie (N, V)
+lying (adj)
+university degree (N)
+ruin (N, V)
+ease (N)
+shopaholic (N) 
+workaholic (N) 
+technophile (N) 
+eel (N) 
+wither (V)
+housekeeper (N) 
+disgusting (adj)
+perfectly seasoned (cụm V)
 it is a fact that 
-means
+means (N)
 a means of transport
-vegan
-comfy
+vegan (N, adj)
+comfy (adj)
 the reason why ... is that ...
 at dawn
 at noon
 twilight
-fatal
+fatal (adj) 
 pothole
 yard
-greenery
-take place
-annually
-annual
-semester
-confide in ...
-confidant
-open-minded
+greenery (N)
+take place (V)
+annually (adv)
+annual (N, adj) 
+semester (N)
+confide in ... (cụm V)
+confidant (N)
+open-minded (adj) 
 plenty of 
-conservative
+conservative (adj) 
 find something adj
-concentrate
+concentrate (V) + (on)
 concentration on
-hyperactive
-sip
+hyperactive (adj) 
+sip (N, V)
 zip up
 house (V)
-refugee
-antique
-accommodation
-horizontal disadvantages
-urban citizens
-rural
-parallel
-mansion
-bungalow
-detached house
-privacy
-panoramic view
-insect
-insecticide
-long face
+refugee (N)
+antique (adj) 
+accommodation (N)
+horizontal disadvantages (N)
+urban citizens (N)
+rural  (adj) 
+parallel (adj) + (to/with)
+mansion (N)
+bungalow (N)
+detached house (N)
+privacy (N)
+panoramic view (N)
+insect (N)
+insecticide (N)
+long face (N)
 have a long way to go
 at large
-representative of
-large-scale
-ring
+representative of (cụm adj)
+large-scale (adj) 
+ring (V)
 what do you get up
 get up
-slim
-a worn-out ...
-top
-illustration
-social gap
-illustrative
-predict
-prediction
-predictive
-blue (buồn)
-aspect
-hobby
-work as
-occupation
-culture
-my mother tongue
-Spouse
-Individualism
-Norm
-Offspring
-Sibling
-Moustache
+slim (adj) 
+a worn-out ... (cụm N)
+top (N)
+illustration (N)
+social gap (N)
+illustrative (adj) 
+predict (V)
+prediction (N)
+predictive (adj) 
+blue (adj) 
+aspect (N) + (of)
+hobby (N)
+work as (cụm V)
+occupation (N)
+culture (N)
+my mother tongue (N)
+Spouse (N)
+Individualism (N)
+Norm (N)
+Offspring (N) 
+Sibling (N) 
+Moustache (N) 
 Get on well with
 Fight like cats and dogs
-Nuclear family
-Extended family
-Friction
+Nuclear family (N) 
+Extended family (N) 
+Friction (N)
+Frictional (adj)
 Former generations
-Ideology
-Regulation
-Socialist
+Ideology (N)
+Regulation (N) 
+Socialist (adj)
 Under the same roof
-Instinct
-Moderate
-Dexterity
+Instinct (N)
+Moderate (adj) 
+Dexterity (N)
 Family reunion
 Family gathering
-Foster the mutual understanding
-Foster the family bonds
-Build up unforgetable memories that can last a lifetime
-Unwind
+Foster the mutual understanding (cụm V)
+Foster the family bonds (cụm V)
+Build up unforgetable memories that can last a lifetime (cụm V)
+Unwind (V)
 Foster a sense of belonging and intimacy
 Have a chit chat
-Loving family
-Expression
-Carefree childhood
+Loving family (N)
+Expression (N)
+Express (V)
+Expressive (adj)
+Carefree childhood (N)
 Dysfunctional family
-Abuse
+Abuse (N, V)
 Troubled childhood
-Divorce
+Divorce (N, V)
 Broken home
-Custody of the children
-Grant joint custody
-Sole custody
-Award sole custody
-Pay child support
+Custody of the children (cụm N)
+Grant joint custody (cụm V)
+Sole custody (cụm N)
+Award sole custody (cụm V)
+Pay child support (cụm V)
 On good terms with each other
 Have an abortion
 Baby is due
 Adoptive parents
-Give birth
-Raise the child
-Intimacy
-Coziness
-Cozi
-Intimate
-Disease
-Occasion
-Experience
-Depression
-Anxious
-Further the distance among family
-Proposal
+Give birth (cụm V)
+Raise the child (cụm V)
+Intimacy (N) + (ff/between)
+Coziness (N)
+Cozi (adj)
+Intimate (adj)
+Disease (N) + (of)
+Occasion (N)
+Experience (V)
+Depression (N)
+depress (V)
+depressed (adj)
+Anxious (adj)
+Further the distance among family (cụm V)
+Proposal (N)
 Have access to
-Influence
-Lack
-Strait laced
-Liberty
-Deprive sb of
-Tend to
-Distinguish
-Rebellious peers
-Distorted patterns of thinking
-Moral lession 
+Influence (N, V) + (on)
+Lack (N, V) + (of)
+Strait laced (adj)
+Liberty (N)
+Deprive sb of (cụm V)
+Tend to (cụm V)
+Distinguish (V) + (between)
+Rebellious peers (N)
+Distorted patterns of thinking (cụm V)
+Moral lession (N)
 helicopter parents
-Distort
-Filial piety
+Distort (V)
+Filial piety (N)
 Compromise
 Mutual 
 regularly

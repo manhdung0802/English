@@ -456,244 +456,311 @@ Moral lession (N)
 helicopter parents
 Distort (V)
 Filial piety (N)
-Compromise
-Mutual 
-regularly
-Indulge
-Parenting
-Strict
-Tolerant
-Harm
-Dominant
-
-tailor
-trousers
-loose
-tight
-shorts
-skirt
-flowery
-coat
-dress
-attire
-tie
-trainers
-gloves
-short-sighted
-fatigue
-necklace
-earrings
-bracelet
-socks
-oxford
+Compromise (N, V)
+Mutual (adj)
+regularly (adv)
+Indulge (V) (in/yourself)
+Parenting (N)
+Strict (adj) (about/with)
+strictness
+Tolerant (adj)
+Harm (N, V)
+Dominant (adj)
+dominate (V)
+tailor (V)
+trousers  (N)
+neighbor (N)
+loose (adj)
+tight (adj)
+shorts (N)
+skirt (N)
+flowery (adj)
+coat (N)
+dress (N, V)
+dress to kill
+dress up
+dress down
+attire (N, unc)
+tie (N, V)
+unlike
+trainers (N)
+gloves (N)
+short-sighted (adj)
+fatigue (N)
+necklace (N)
+earrings (N)
+bracelet (N)
+socks (N)
+oxford (N)
 be in someone's shoes
-motivation
-belt
-jacket
-chic
-hip and trendy
-put on
-take off
-perfume
-add a touch of elegance to my outfit
-hassle
-jump on the band wagon
-mix and match
-fancy clothes
-pocket
-long-sleeved
-checked
-plain
-collar
-button
-fibre
-hard-wearing
-fragile
-coach
-casual
+motivation (N)
+motivate (V)
+motivated (adj)
+belt (N)
+tighten your belt
+jacket (N)
+chic (adj)
+outdated (adj)
+hip and trendy (adj)
+put on (V)
+take off (V)
+perfume (N)
+add a touch of elegance to my outfit (cum V)
+hassle (N)
+jump on the band wagon (cụm V)
+mix and match (V)
+fancy clothes (N)
+pocket (N)
+long-sleeved (adj)
+checked (adj)
+plain (adj)
+collar (N)
+button (N)
+button up
+fibre (N)
+hard-wearing (adj) = durable
+fragile (adj)
+coach (N)
+casual (adj)
 on the move
-manliness
-symbolize
-masculinity
-masculine
+manliness (N, unc)
+symbolize (V)
+masculinity (N, unc)
+masculine (adj)
 from my daily observation
-gulf
-notable
-bride
-gown
-groom
-typical
-appropriate
+gulf (N) (between)
+notable (adj)
+bride (N)
+gown (N)
+groom (N)
+typical (adj)
+appropriate (adj)
 Don't judge the book by its cover
-impervious
-criticize
-severe
-idiosyncrasy
+impervious (adj) (to)
+criticize (V) (sb/sth for doing, sb/sth as sth)
+severe (adj)
+idiosyncrasy (N)
 build a good impression
-novelty
+novelty (N)
 attact people attention
-a sense of
-splurge (on)
-flush
-a film buff
-rendezvous (with)
-catch-up (with/on)
+a sense of 
+splurge (N, V) (on)
+flush (N, V, adj)
+a film buff 
+rendezvous (N, V) (with)
+catch-up (V) (with sb/on sth)
 do the work-out
 go to the gym
 do wonders for
 get into shape
 get fit
 get lean
-fitness
+fitness (N)
 burn out excessive
 improve flexbility
 improve resilience
 improve immune system
-resist
+resist (V)
 resist the temptation to do something
-resistance
-gentle excercise
-demanding excercise
-demand (for)
+resistance (N)
+gentle excercise (N)
+demanding excercise (N)
+demand (N) (for)
 by booting our metabolism
 tiring activities
-maintain
-maintenance
-exhausted
-lead a healthy lifestyle
-music genres
-rhythm music (of)
-taste
-tasteless
-up-to-date
-journals
-tabloid news
-broaden the horizons
-learn from others' experiences
-calming
-surf the net
-become addicted to doing
-have fun
-have a blast 
+maintain (V)
+maintenance (N)
+exhausted (adj)
+lead a healthy lifestyle (cụm V)
+music genres (N) = kind of music
+rhythm music (N) (of)
+taste (adj)
+tasteless (adj)
+up-to-date (adj)
+journals (N)
+tabloid news (N)
+broaden the horizons (cụm V)
+learn from others' experiences (cụm V)
+calming (adj)
+surf the net (cụm V)
+become addicted to doing (cụm V)
+have fun (V)
+have a blast (V)
 a whole of (a time)
 after-work dinner
-ceremony
-recreational
-pursuit (of)
+ceremony (N)
+recreational (adj)
+pursuit (N) (of)
 be always into
-strenuous
-manual job
-whenever
-for ages
+strenuous (adj)
+manual job (n)
+whenever(adv)
+for ages 
 a passion for
-release all of my creative juices
-ingredient
-foodie
-confess
+release all of my creative juices (cụm v)
+ingredient (n)
+foodie (n, adj)
+confess (v) (to)
 be a real sucker for 
-immerse (in)
-inspirational
-mysterious
-a mysterious species
-landscape
+immerse (v) (in)
+well i have to confess ...
+inspirational (adj)
+mysterious (adj)
+a mysterious species (n)
+landscape (n)
 recharge my battery
-social norms and customs
-be my cup of tea
-harmony
-harmonious
-live in harmony with 
-therapeutic
-therapy
-therapist
+social norms and customs (n)
+be my cup of tea 
+harmony (n)
+harmonious (adj)
+live in harmony with (cụm v)
+therapeutic (adj)
+therapy (n)
+therapist (n)
 in my down time
 from time to time
-spotless
-attentive (to)
-attentiveness
-inattentive
-freshness
-broth
-unique (to)
-uniqueness
-scrumotious
-delectable
-tasteful
-moist
-tender
-moistness
-upset (by/about/at/that/with)
+spotless (adj)
+attentive (adj) (to)
+attentiveness (n)
+inattentive (adj)
+freshness (n)
+broth (n)
+unique (adj) (to)
+uniqueness (n)
+scrumotious (adj) = delicious
+delectable (adj, formal) = delicious
+tasteful (adj)
+tasteless (N, unc)
+moist (adj)
+tender (adj)
+moistness (n)
+upset (adj) (by/about/at/that/with)
 upset the apple cart
-satiate
-satiation
-satiated
-spices
+satiate (v)
+satiation (n)
+satiated (adj)
+spices (n)
 the spice of life
 spice up
-tast buds
-emblematic (of)
-emblem 
-roam around
-sightseeing
-go sightseeing
-savour (of)
-savour local delicacies
-gastronomc
-gastronome
-crispy
-crispiness
-sour
+tast buds (n)
+emblematic (adj, formal) (of) = representative
+emblem (n) (of)
+roam around (cụm v)
+sightseeing (n, unc)
+go sightseeing 
+savour (v) (of)
+savour local delicacies (cụm v)
+gastronomc (adj, formal)
+gastronome (n, formal)
+crispy (adj)
+crispiness (n)
+sour (adj)
 go sour
-sourness
-sour note
-sweeten
-sugary
-sugary tone
-sugar-rich
-sugar-free
-bland
-melt
-particular
-tomb
-imperial city
-heritage
-inheritance
+sourness (n, unc)
+sour note (n)
+sweeten (adj)
+sugary (adj)
+sugary tone (n)
+sugar-rich (adj)
+sugar-free (adj)
+bland (adj)
+melt (v)
+melt in your mouth
+particular (adj) (about)
+tomb (n)
+imperial city (n)
+heritage (n, unc, adj)
+inheritance (n)
 four-seater car
-crystal
-shy away from
-species
-naughty
-naughtiness
-manner (of)
+crystal (n, adj)
+shy away from (cụm v)
+species (n)
+naughty (adj)
+naughtiness (n)
+manner (n) (of)
 in a responsible manner
-chaos
+chaos (n, unc)
 a scene of chaos
-companion
-a drinking companion
-well-trained
-come up with
-extrovert
-introvert
-infant
-toddler
-enjoy someone company
-pleasant (to)
-pleasure
-accumulate
-broaden my social circle 
-opportunity
-let my hair down (unwind)
-apathy
+companion (n)
+a drinking companion (cụm n)
+well-trained (adj)
+come up with (cụm v)
+extrovert (n)
+introvert (n)
+infant (n)
+toddler (n)
+enjoy someone company (cụm v)
+pleasant (adj) (to)
+pleasure (n)
+accumulate (v)
+broaden my social circle  (cụm v)
+opportunity (n) (to do sth/ for)
+let my hair down (unwind) (v)
+apathy (n, unc)
 toward
-banal
-tedious
-dead boring
-nod off
-fell drowsy
-inconvenient
-swamped with
-well-being
-scienticially
+banal (adj)
+banality (n)
+tedious (adj)
+dead boring (adj)
+tedium (n)
+nod off (cụm v)
+fell drowsy (cụm v)
+inconvenient (adj)
+inconvenience (n)
+be swamped with
+swamp (n)
+well-being (n, unc)
+a sense of well-being
+scienticially (adv)
+unscientific (adj)
 i always have lots of things on my plate
 i'm always up to my ears in study
 i'm kinda in the mood of
 i guess the reason for ... is that
+remain (v) + (adj)
+well-organized (adj)
+effective (adj) (from)
+effectiveness (n)
+avoid (v) (V-ing sth)
+pleasing scent (n)
+bouquet (n)
+as a matter of fact 
+go for sth (cụm v)
+trace (v) (sth to sth)
+perks (n) (of)
+preference (N) (for)
+in preference to sth 
+prefer (v) (to V | v-ing)
+preferable
+chaotic (adj)
+chores (n)
+do the chores
+contrast (n, v) (between/with)
+by contrast to/with
+gravitate (v) (to/towards)
+recipes (n) (for)
+yield profits (n)
+home-cooked food
+run arrands (cụm v)
+at ease
+blister my feet (cụm v)
+conventional (adj) (in)
+conventionality (n, unc) != unconventional (n)
+depend (v) (on)
+stability (n, unc) (of)
+attention span (cụn n)
+eliminate geographical barriers (cụm v)
+time constraints (cụm n)
+accelerate (v) != decelerate
+acknowledge (v) (that| sb as sth)
+knowledge (n, unc) (of/about)
+a thirst for knowledge
+get rid of (cụm v)
+eradicate (v) (sth from sth) = remove
+aradication (n, unc) 
+seamless (adj)
+come at the expense of
+neglect (v,n,unc) (of/ to do sth)
+amenities (n) 
+intent to (cụm v)
+expense (n)

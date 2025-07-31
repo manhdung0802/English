@@ -390,15 +390,15 @@ Get on well with
 Fight like cats and dogs
 Nuclear family (N) 
 Extended family (N) 
-Friction (N)
+Friction (N) (between/with)
 Frictional (adj)
 Former generations
 Ideology (N)
 Regulation (N) 
 Socialist (adj)
 Under the same roof
-Instinct (N)
-Moderate (adj) 
+Instinct (N) (for/to do sth)
+Moderate (adj,v) 
 Dexterity (N)
 Family reunion
 Family gathering
@@ -416,7 +416,7 @@ Carefree childhood (N)
 Dysfunctional family
 Abuse (N, V)
 Troubled childhood
-Divorce (N, V)
+Divorce (N, V) (between)
 Broken home
 Custody of the children (cụm N)
 Grant joint custody (cụm V)
@@ -429,7 +429,7 @@ Baby is due
 Adoptive parents
 Give birth (cụm V)
 Raise the child (cụm V)
-Intimacy (N) + (ff/between)
+Intimacy (N) + (of/between)
 Coziness (N)
 Cozi (adj)
 Intimate (adj)
@@ -439,11 +439,12 @@ Experience (V)
 Depression (N)
 depress (V)
 depressed (adj)
-Anxious (adj)
+Anxious (adj) (about/for/that)
 Further the distance among family (cụm V)
-Proposal (N)
+Proposal (N) (for/to do sth/that)
 Have access to
 Influence (N, V) + (on)
+have a significant influence on
 Lack (N, V) + (of)
 Strait laced (adj)
 Liberty (N)
@@ -456,18 +457,19 @@ Moral lession (N)
 helicopter parents
 Distort (V)
 Filial piety (N)
-Compromise (N, V)
+Compromise (N, V) (with/on)
 Mutual (adj)
 regularly (adv)
 Indulge (V) (in/yourself)
 Parenting (N)
 Strict (adj) (about/with)
 strictness
-Tolerant (adj)
+Tolerant (adj) (of)
 Harm (N, V)
+harmful to
 Dominant (adj)
 dominate (V)
-tailor (V)
+tailor (V) (điều chỉnh)
 trousers  (N)
 neighbor (N)
 loose (adj)
@@ -492,8 +494,8 @@ earrings (N)
 bracelet (N)
 socks (N)
 oxford (N)
-be in someone's shoes
-motivation (N)
+be in someone's shoes = put yourself
+motivation (N) (for doing sth)
 motivate (V)
 motivated (adj)
 belt (N)
@@ -523,9 +525,9 @@ fragile (adj)
 coach (N)
 casual (adj)
 on the move
-manliness (N, unc)
+manliness (N, unc) = masculinity 
 symbolize (V)
-masculinity (N, unc)
+masculinity (N, unc) = manliness 
 masculine (adj)
 from my daily observation
 gulf (N) (between)
@@ -534,7 +536,7 @@ bride (N)
 gown (N)
 groom (N)
 typical (adj)
-appropriate (adj)
+appropriate (adj) = suitable for
 Don't judge the book by its cover
 impervious (adj) (to)
 criticize (V) (sb/sth for doing, sb/sth as sth)
@@ -595,7 +597,7 @@ be always into
 strenuous (adj)
 manual job (n)
 whenever(adv)
-for ages 
+for ages = for a long time
 a passion for
 release all of my creative juices (cụm v)
 ingredient (n)
@@ -619,7 +621,8 @@ therapy (n)
 therapist (n)
 in my down time
 from time to time
-spotless (adj)
+spotless (adj) = clean
+spotless reputation
 attentive (adj) (to)
 attentiveness (n)
 inattentive (adj)
@@ -634,7 +637,7 @@ tasteless (N, unc)
 moist (adj)
 tender (adj)
 moistness (n)
-upset (adj) (by/about/at/that/with)
+upset (adj) (by/about/at/that/with) = sick of
 upset the apple cart
 satiate (v)
 satiation (n)
@@ -692,7 +695,7 @@ toddler (n)
 enjoy someone company (cụm v)
 pleasant (adj) (to)
 pleasure (n)
-accumulate (v)
+accumulate (v) (working experience)
 broaden my social circle  (cụm v)
 opportunity (n) (to do sth/ for)
 let my hair down (unwind) (v)
@@ -727,7 +730,7 @@ bouquet (n)
 as a matter of fact 
 go for sth (cụm v)
 trace (v) (sth to sth)
-perks (n) (of)
+perks (n) (of) = benefit
 preference (N) (for)
 in preference to sth 
 prefer (v) (to V | v-ing)
@@ -742,7 +745,7 @@ recipes (n) (for)
 yield profits (n)
 home-cooked food
 run arrands (cụm v)
-at ease
+at ease = relax, let my hair down, unwind
 blister my feet (cụm v)
 conventional (adj) (in)
 conventionality (n, unc) != unconventional (n)
@@ -755,12 +758,12 @@ accelerate (v) != decelerate
 acknowledge (v) (that| sb as sth)
 knowledge (n, unc) (of/about)
 a thirst for knowledge
-get rid of (cụm v)
+get rid of (cụm v) 
 eradicate (v) (sth from sth) = remove
 aradication (n, unc) 
 seamless (adj)
 come at the expense of
 neglect (v,n,unc) (of/ to do sth)
 amenities (n) 
-intent to (cụm v)
+intent to (cụm v) = be supposed to
 expense (n)

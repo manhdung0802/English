@@ -31,7 +31,7 @@ Wealth (N)
 Headache (N)
 Stool (N)
 Pupil (N)
-Are not allow to
+Are not allowed to
 Hit it off (cụm V)
 Hit the 
 Reckon (V)
@@ -544,7 +544,7 @@ severe (adj)
 idiosyncrasy (N)
 build a good impression
 novelty (N)
-attact people attention
+attact people's attention
 a sense of 
 splurge (N, V) (on)
 flush (N, V, adj)
@@ -630,7 +630,7 @@ freshness (n)
 broth (n)
 unique (adj) (to)
 uniqueness (n)
-scrumotious (adj) = delicious
+scrumptious (adj) = delicious
 delectable (adj, formal) = delicious
 tasteful (adj)
 tasteless (N, unc)
@@ -645,7 +645,7 @@ satiated (adj)
 spices (n)
 the spice of life
 spice up
-tast buds (n)
+taste buds (n)
 emblematic (adj, formal) (of) = representative
 emblem (n) (of)
 roam around (cụm v)
@@ -744,7 +744,7 @@ gravitate (v) (to/towards)
 recipes (n) (for)
 yield profits (n)
 home-cooked food
-run arrands (cụm v)
+run errands (cụm v)
 at ease = relax, let my hair down, unwind
 blister my feet (cụm v)
 conventional (adj) (in)
@@ -760,10 +760,56 @@ knowledge (n, unc) (of/about)
 a thirst for knowledge
 get rid of (cụm v) 
 eradicate (v) (sth from sth) = remove
-aradication (n, unc) 
+eradication (n, unc) 
 seamless (adj)
 come at the expense of
 neglect (v,n,unc) (of/ to do sth)
 amenities (n) 
 intent to (cụm v) = be supposed to
 expense (n)
+cornerstone for
+go back and forth
+democracy (N)
+sway (n, unc, v) 
+pour (v) (sth + into/out/down)
+unfortunately (adv)
+unconscious (adj)
+unconsciousness (n)
+faint (adj,v) (with)
+faintness (n, unc)
+breed (n)
+brunch (n)
+affordable (adj)
+rival (n, v) (for) = competitor 
+defeat (n, v) (in/of)
+conquer (v) = defeat
+conqueror (n)
+in the first place
+bend (v) (over/down)
+bend the truth
+begin/starting + to v/ ving
+profitable (adj) != unprofitable
+profit (n,v)
+pick up = lift
+bet (v) (sb that/ sth on sth /  against)
+theft report (n)
+thief (n)
+shoplifting (n)
+fall victim to (cum v)
+innicent people (n)
+fraud (n)
+embezzle (v)
+embezzler (n)
+blow up 
+attempt to
+impress
+dump
+break down
+break into
+bring about
+reckless
+healthy relationship
+tension
+sunburn
+burn out
+wear out

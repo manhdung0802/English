@@ -800,16 +800,118 @@ innicent people (n)
 fraud (n)
 embezzle (v)
 embezzler (n)
-blow up 
-attempt to
-impress
-dump
-break down
-break into
-bring about
-reckless
-healthy relationship
-tension
-sunburn
-burn out
-wear out
+blow up (cum v)
+attempt to (cum v)
+impress (v)
+dump (v)
+break down (cum v)
+break into (cum v)
+bring about (cum v)
+reckless (adj)
+healthy relationship (N)
+tension (n)
+sunburn (n, unc)
+burn out (cum v)
+wear out (cum v)
+boiling hot (adj)
+soak up (cum v)
+help (v) (v/to v)
+exaggerate (v)
+fabricate (v) 
+gamble (v) (on/that/with)
+go to sail (cum v)
+blow up at (cum v)
+corporal (adj)
+corporal punishment
+mechanic (n)
+mechanical (adj)
+grill (n,v)
+catch up with (v)
+catch up (v)
+technological (adj)
+technology (n)
+catch sb red-handed (cum v) (doing)
+come out of (v) (myshel)
+cost (n): escalating cost/living cost
+costly = pricey = exobitant (adj)
+flock (n, v) (to)
+influx (n) (of)
+unendurable (adj, formal)
+an influx of people from big cities are flocking to countysides
+cut cost (v)
+come across (v)
+cost an arm and a leg (v)
+treasure (n, v), treasured (adj)
+out of reach 
+upmarket (adj, adv) != downmarket -> go upmarket
+involve (v) (yourself/doing sth), involvement (n), involved (adj)
+champagne tastes (n) (on a beer budget)
+fiance (n), fiancee (n)
+pond (n)
+cougar (n)
+dig into sth (cum v)
+heel (n), take to your heel
+myth (n) (of/that) != fact
+do a 180 (cum v)
+do damage to (cum v)
+wash away (cum v)
+asset (n) = proverty 
+infrastructure (n), infrastructunal (adj)
+war-torn (adj)
+pose a threat to 
+draw sb attention 
+draw a comparision
+dream about/of
+inflation rate (n)
+exorbitant (adj) = astronomical
+do harm to != do wonders 
+global warming (n)
+make all-out efforts to = try my best
+drive sb to do
+incentive (n) (to do sth) = motivation 
+have a drink = go boozing
+a drunk man (n)
+drive under the influence (v)
+heavily fined (cumj v bị động)
+a loaf of bread (n)
+fall out with (v)
+trivial (adj)
+failure (n) (to do sth), a sense of failure
+hopeless (adj) = disappointment
+disorientation (n), disorient (v)
+rebel (n), rebellious (adj)
+border (n, v) (between/with)
+go on a business trip
+forgive (v) (sb for sth), forgiveness (n)
+i don't dare to 
+beg (v) (to do sth/ sb for sth), beggar (n)
+lateness (n) = tardiness (n), tardy (adj)
+frustrate (v)
+froze up (v)
+it took me a while (to)
+obstacle (n)
+get over (v)
+get on my nerves = drive me bananas
+moan (n, v) (about/at/that)
+lend itself to sth (cum v)
+eager (adj) (to do/ for)
+in advance 
+liver (n)
+treat myself to a lavish meal (cum v)
+urge (v) (sb to do sth/ that/ on/upon sb)
+live up to my expectation (cum v)
+judgement (n), make a judgement
+dip (n, v) (into) 
+meal is on me = foot the bill
+let's go dutch 
+tempt (v) (sb into sth/ to do sth), temptation (n)
+seduce (v) (sb into doing sth)
+persude (v) (to do sth/ into doing sth/ sb of sth)
+lure (n, v)
+chain (n, v). a hotel chain 
+kidney (n)
+vulnerable (adj)
+tuck (v), tucked in a alley
+alley (n)
+on a daily/regular basis
+as far as i know

@@ -228,7 +228,7 @@ play an important role
 distant (adj) 
 distance (N)
 from afar (adj)
-proximity (N) (to)
+proximity (N) (to), in close proximity to
 careless (adj) 
 concern (N) + (for/about)
 education (N)
@@ -1126,4 +1126,110 @@ gorgeous (adj, informal)
 absorb (v, tran) (sth into sth) = soak up; be absorb in sth
 fully-furnished (adj) = self-catering apartment
 take into account 
-shoestring , travel on a shoestring
+shoestring (n,c), travel on a shoestring
+cramped (adj), cramp (N)
+sustain (v, trans), sustain the life, sustenance (n, unc), sustainability (n, unc)
+the more, the merrier
+miserable (adj)
+superior to (cum adj)
+alike (adj, adv)
+be committed to v-ing
+at your convenience
+commit a crime (cum v)
+law-breaker (n, c)
+fortune (n), make a fortune/pile
+account for (cum v)
+prefer ... to ... (cum v)
+monk (n, c)
+geek (n,c), computer geek
+gifted (adj), gifted child/artist
+pester (v) + sb for/to do sth, = harass
+litter (v) = dump
+ahoulder (v), shoulder the duty
+burden (n) + of/on, (v), be burdened with sth
+speak ill of (cum v)
+stab (v,n,c), stab sb in the back
+sit still (cum v), stand still
+still (adj, adv, n, v)
+knock over (cum v)
+trip over (cum v)
+elbow (n, c, v)
+at your fingertips
+palm (n,c,v,trans)
+wrist (n, c), on/around your wrist
+hospitality (n, unc)
+entertain (v) (sb with sth), entertain an idea
+see eye to eye with sb  (idiom)
+keep an eye on (idiom)
+no matter how busy they are (idiom)
+smell the roses (idiom)
+get/have a big mouth (idiom)
+let the cat out of the bag (idiom)
+keep your nose out of sth (idiom)
+break a leg (idiom)
+flatter (v, trans)
+praise (v, trans) (sb/sth for), = congatulate/compliment/flatter
+i'm all  ears (idiom)
+hand sb sth (cum v)
+price-sensitive (adj)
+glue (n, v, tran), (v + sth together/in place), glue (v) = stick
+burgeon (v, intran, formal)
+I got/have a (bệnh gì đó)
+earache (n)
+infection (n), infect (v), infected/infectious (adj)
+gut (n, v), take gut to
+be caught in the rain
+cough (n, v)
+sore throat (n), sore eye
+runny nose (n)
+swollen (adj)
+asthma (n, unc)
+retching (n, v)
+sneeze (v, intran, n, c)
+dizzy (adj), dizziness (n, unc)
+super fever (n)
+measles (n, unc)
+itch (v), itchness (n)
+rash (adj)
+shivering (adj), shiver (v)
+diabetes (n)
+oberity (n, unc)
+bless you
+ailment (n, c) = desease/condition
+symptom (n, c)
+ease (n, v)
+painkiller (n, c)
+treatment (n), give sb treatment
+cure (n, c, v), find a cure, cured/curative/curable (adj)
+last stage (n)
+malaria (n, unc), malarial (adj), mosquito (n)
+diagnose (v, tran) (sb/sth as/with sth)
+hospitalize (v, trans, passive), hospitalization (n, unc)
+disorder (n), disordered (adj), a genetic disorder
+regular health check-up (n)
+incidence (n) (of)
+those whole
+sedentary (adj)
+antibiotic (n, plural)
+metabolic (adj), metabolism (n)
+bacteria (n, plural), bacterial (adj), a bacterial infection
+overcome (v, tran), be overcome by sth
+succumb (v, intran, formal) = give in, (to)
+a matter of time (idiom)
+vaccine (n), vaccinated (adj, v3)
+respiratory (adj)
+the deceased (n), decease (n, unc)
+insomnia (n, unc)
+mentality (n, c), mental (adj)
+tactic (n,c), shock/delaying tactic, a tactic work
+shuttle (n, c, v), a shuttle bus, (v) + between/back and forth
+i have a poor sense of direction
+matrix (n,c)
+it's just around the cornerstone
+take the first/second right/left 
+go over the bridge 
+go towards, go along, go across, go past, go thought 
+sunset (n)
+palace (n, c)
+adjacent (adj) (to)
+a short/long distance from
